@@ -1,0 +1,57 @@
+Habilidades complementares -- Tipos de pilares;
+ 
+Decomposição:
+
+Primeiro passo da resolução de problemas dentro do conceito de pensamento computacional:
+"Dado um problema complexo, devemos quebra-lo em problemas menores. Portanto, problemas mais faceis e gerenciaveis"
+
+Estratégia: Processo de quebrar e determinar partes menores e gerenciaveis.
+(Estudas, explorar, decompor em elementos constituintes e realizar exame detalhado)
+Combinar os elementos recompondo o problema original (Processo de reconstrução, fundir os elementos de maneira coerente e consiste em reunir elementos distintos em um único elemento)
+
+Ordem de execução de tarefas menores
+Sequêncial e paralelo.
+
+Variáveis // pequenos problemas // Segmentação
+
+* Não basta aplicar
+* Desenvolver a decomposição "by yourself"
+
+Como decompor?
+
+Entenda o problema -- Componentes -- (indique) -- Características, dependências //// Problema principal em segundo plano;
+
+Identificar ou coletar dados // Agregar os coletar dados // Funcionalidade // Decomposição
+
+Exemplos:
+Cotidiano - COZINHAR
+
+*Identificar os ingredientes
+*Determinar as etapas (sequêncial ou pararelo)
+*Executar cada etapa
+*Agregar os ingredientes para finalizar (Recompor com coerência)
+
+Funcionamentos de uma bicicleta
+
+*Identificar os componentes
+*Papel de cada componente             -----   Funcionamento do sistema
+*Interdependência das peças
+
+Exemplo: Criar um app
+
+*Finalidade
+*Interface                   ---------- Definição de componentes e etapas
+*Funcionalidades
+*Pré-requisitos 
+(Desenvolvimento mais eficiente)
+
+Exemplo: Artigo
+
+*O que será abordado?
+*Estrutura                     -------- Definição de componentes e etapas
+*Conteúdo de cada tópico
+*Textos de conexão
+
+Movimentos de um avatar: Ações, padrão, movimento, virar, mover, andar, correr, sentar, levantar, direita, esquerda, cima, baixo, mover perna, impulsionar;
+
+------
