@@ -1,0 +1,30 @@
+Reconhecimento de padrões
+
+*Modelo de base
+*Estrutura invariante
+*Repetição
+(Similaridade e diferença)
+
+Exemplo: Fotos de rede social
+METADATA
+Compressão -- Salvar no servidor de dados
+(Processo utilizado por plataformas diferentes)
+
+Por que determinar padrões?
+
+Generalizar, com objetivo de obter resolução para problemas diferentes.
+
+-Classificação de objetos
+
+Como o computador reconhece padrões?
+
+Comparação 
+*Grau de similaridade
+*Grupos conhecidos x objeto desconhecido 
+*Representação de atributos
+*Aprendizado - Conceitos associados ao objetos
+*Armazenar dados
+*Regras de decisão
+
+Padrões: Extração de características, classificação de dados, reconhecimento de imagem, 
+reconhecimento de fala, análise de cenas e classificação de documentos (Machine Learning, Redes neurais, inteligência artificial e ciencia de dados)
